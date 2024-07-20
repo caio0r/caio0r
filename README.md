@@ -4,7 +4,7 @@
 ## Sobre Mim
 
 👨‍💼 **Trabalho/Estudo:** Graduado em Analise e desenvolvimento de sistemas pela UNICEPLAC, empregado no hospital Sirio Libanes Brasilia.  
-📚 **Aprendizado:** Estou desenvolvendo minhas habilidades de desenvolvimento de software.  
+📚 **Aprendizado:** Estou constantemente evoluindo minhas habilidades em desenvolvimento de software.
 
 
 ## Contato
